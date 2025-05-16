@@ -61,7 +61,7 @@ const About = () => {
           >
             <div className="rounded-xl overflow-hidden shadow-2xl border-4 border-white dark:border-slate-700 relative aspect-square">
               <img
-                src="profile_photo.jpg"
+                src="https://github.com/RAJPUTRoCkStAr/portfolio-re/blob/main/about.png"
                 alt="Sumit Singh"
                 className="w-full h-full object-cover"
               />
