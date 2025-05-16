@@ -123,8 +123,9 @@ const HeroSection = () => {
                 initial={{ filter: 'blur(10px)' }}
                 animate={{ filter: 'blur(0px)' }}
                 transition={{ duration: 1, delay: 0.5 }}
-                src="https://raw.githubusercontent.com/RAJPUTRoCkStAr/portfolio-re/main/home.png
-"
+                src="https://raw.githubusercontent.com/RAJPUTRoCkStAr/portfolio-re/main/home.png"
+                
+
                 alt="Sumit Singh"
                 className="w-full h-full object-cover"
               />
